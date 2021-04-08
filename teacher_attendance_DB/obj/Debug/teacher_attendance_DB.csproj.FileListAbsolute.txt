@@ -1,0 +1,13 @@
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\bin\Debug\teacher_attendance_DB.exe.config
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\bin\Debug\teacher_attendance_DB.exe
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\bin\Debug\teacher_attendance_DB.pdb
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\obj\Debug\teacher_attendance_DB.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\obj\Debug\teacher_attendance_DB.cource_Form.resources
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\obj\Debug\teacher_attendance_DB.Form1.resources
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\obj\Debug\teacher_attendance_DB.Properties.Resources.resources
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\obj\Debug\teacher_attendance_DB.room_Form.resources
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\obj\Debug\teacher_attendance_DB.teacher_Form2.resources
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\obj\Debug\teacher_attendance_DB.csproj.GenerateResource.cache
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\obj\Debug\teacher_attendance_DB.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\obj\Debug\teacher_attendance_DB.exe
+C:\Users\PREDATOR\source\repos\teacher_attendance_DB\teacher_attendance_DB\obj\Debug\teacher_attendance_DB.pdb
